@@ -5,7 +5,7 @@
 conda create --name main-ds python=3.9
 conda activate main-ds
 pip install -r requirements.txt
-streamlit run dashboard.py
+streamlit run DASHBOARD.py
 ```
 ## TERMINAL/SHELL
 ```
@@ -15,7 +15,7 @@ python -m venv venv
 untuk Windows: venv\Scripts\activate
 untuk Mac/Linux: source venv/bin/activate
 pip install -r requirements.txt
-streamlit run dashboard.py
+streamlit run DASHBOARD.py
 ```
 ## RUN STREAMLIT
 ```
