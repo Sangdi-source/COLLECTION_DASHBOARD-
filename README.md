@@ -20,6 +20,6 @@ streamlit run dashboard.py
 ## RUN STREAMLIT
 ```
 streamlit run DASHBOARD.py
-'''
+```
 
 
